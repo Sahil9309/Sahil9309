@@ -13,8 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### 🧠 Data Structures & Algorithms
-- Competitive Programming 💻
-- LeetCode, Codeforces, GFG Grind 🔥
+- LeetCode, GFG Grind 🔥
 - Problem Solving Ninja 🥷
 
 #### 🌐 MERN Stack
@@ -30,10 +29,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-
 
 
 ### 🎯 Fun Facts
@@ -46,7 +43,6 @@
 
 ### 📬 Let's Connect!
 <p>
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sahil-talwekar-650147294/)" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" /></a>
 </p>
