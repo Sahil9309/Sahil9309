@@ -59,6 +59,6 @@
 
 ### 📬 Let's Connect!
 <p>
-  <a href="[https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sahil-talwekar-650147294/)" /></a>
-  <a href="mailto:youremail@sahiltalwekar123@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/(https://www.linkedin.com/in/sahil-talwekar-650147294/)/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white]" /></a>
+  <a href="mailto:sahiltalwekar123@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
