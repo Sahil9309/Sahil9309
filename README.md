@@ -1,7 +1,8 @@
 <h1 align="center">Hi there! 👋 I'm Sahil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;C%2B%2B+%7C+DSA+Enthusiast;MERN+Stack+Lover+%F0%9F%92%8E;/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;C%2B%2B+%7C+DSA+Enthusiast;MERN+Stack+Lover+%F0%9F%92%8E
+    />
 </p>
 
 ---
@@ -13,7 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### 🧠 Data Structures & Algorithms
-- LeetCode, GFG Grind 🔥
+- Competitive Programming 💻
+- LeetCode, Codeforces, GFG Grind 🔥
 - Problem Solving Ninja 🥷
 
 #### 🌐 MERN Stack
@@ -29,9 +31,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-YourUsername&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahil-YourUsername&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+---
 
 ### 🎯 Fun Facts
 - 😄 I love building full-stack web apps
@@ -43,6 +53,7 @@
 
 ### 📬 Let's Connect!
 <p>
-  <a href="[https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sahil-talwekar-650147294/)" /></a>
+  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white" /></a>
 </p>
