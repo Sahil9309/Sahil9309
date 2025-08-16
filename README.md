@@ -1,7 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Sahil</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;C%2B%2B+%7C+DSA+Enthusiast;MERN+Stack+Lover+%F0%9F%92%8E;ML+Enthusiast+%F0%9F%A7%96%E2%80%8D%E2%99%82%EF%B8%8F;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;C%2B%2B+%7C+DSA+Enthusiast;MERN+Stack+Lover+%F0%9F%92%8E;" />
 </p>
 
 ---
@@ -10,17 +9,11 @@
 
 #### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### 🧠 Data Structures & Algorithms
 - LeetCode, GFG Grind 🔥
 - Problem Solving Ninja 🥷
-
-#### 🤖 Machine Learning
-- Python Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
-- Exploring Models & Algorithms 🧠
-- Working on small ML projects 🚀
 
 #### 🌐 MERN Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -37,7 +30,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-
 ---
 
 ### 📈 GitHub Stats
@@ -46,19 +38,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahil9309&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
-
 ---
 
 ### 🎯 Fun Facts
 - 😄 I love building full-stack web apps
 - 🧩 Puzzle-solving and DSA are my chill pills
-- 🤖 Training machines to think (ML stuff)
 - ☕ Fuelled by chai, driven by code!
 
 ---
 
 ### 📬 Let's Connect!
 <p>
-  <a href="[https://www.linkedin.com/in/(https://www.linkedin.com/in/sahil-talwekar-650147294/)/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white]" /></a>
+  <a href="https://www.linkedin.com/in/sahil-talwekar-650147294/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sahiltalwekar123@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
